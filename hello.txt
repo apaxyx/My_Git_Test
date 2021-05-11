@@ -1,3 +1,7 @@
 hello world
 hello atguigu
+<<<<<<< HEAD
 master 修改
+=======
+hot-fix的修改
+>>>>>>> hot-fix
